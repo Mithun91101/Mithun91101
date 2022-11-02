@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mithun
 - 👀 I’m a programmer
-- 🌱 
 - 📫 How to reach me ... through WhatsApp 9110130858
 
 <!---
