@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mithun91101
-- 👀 I’m interested in Coding and management
-- 🌱 I’m currently learning python, HTML
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Mithun
+- 👀 I’m a programmer
+- 🌱 
 - 📫 How to reach me ... through WhatsApp 9110130858
 
 <!---
